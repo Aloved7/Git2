@@ -1,3 +1,16 @@
 p{
     border: 1px solid #09f;
 }
+ul{
+    list-style: none;
+}
+ul li {
+    width: 150px;
+    float: left;
+    border: 1px solid #09f;
+}
+ul li a{
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
